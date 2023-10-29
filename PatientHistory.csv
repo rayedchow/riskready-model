@@ -1,0 +1,148 @@
+﻿Age,Gender,Race/Ethnicity,Family History of Substance Abuse,Personal History of Substance Abuse,History of Mental Health Conditions,Chronic Pain Conditions,Prescribed Medications,Dosage and Frequency of Opioid Medication Use,Duration of Opioid Medication Use,History of Overdose or Hospitalization Due to Opioid Use,Social Support Network,Employment Status,Education Level,Geographic Location,Opioid Risk Level
+42,Male,Caucasian,No,No,Yes,Yes,Oxycodone,"10mg, 3 times per day",6 months,No,Strong support system,Employed,College degree,New York City,3
+32,Female,African American,Yes,No,No,No,Hydrocodone,"5mg, 2 times per day",2 years,Yes,Limited support system,Unemployed,High school diploma,Los Angeles,4
+55,Male,Hispanic,No,Yes,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",1 year,No,Moderate support system,Retired,Some college,Chicago,3
+28,Female,Asian,No,No,No,No,Tramadol,"50mg, 4 times per day",1 month,No,Strong support system,Employed,Graduate degree,San Francisco,1
+45,Male,Caucasian,No,No,No,Yes,Morphine,"10mg, 2 times per day",3 months,No,Moderate support system,Employed,Some college,Miami,4
+29,Male,White,Yes,Yes,No,No,Fentanyl,"5mg, 2 times per day",1 year,No,Moderate support system,Employed,Graduate degree,Canada,2
+35,Female,Asian,Yes,No,No,No,Kadian,"25mcg/hour patch, changed every 72 hours",2 years,No,Strong support system,Unemployed,High school diploma,Los Angeles,2
+43,Female,Asian,Yes,No,No,Yes,Methadone,"5mg, 2 times per day",3 years,Yes,Strong support system,Employed,Graduate degree,Connecticut,4
+60,Female,African American,No,Yes,No,Yes,Oxycodone,"10mg, 3 times per day",6 months,No,Strong support system,Retired,Graduate degree,Boston,4
+45,Male,U.S Nonresident,Yes,No,Yes,Yes,Hydrocodone,"25mcg/hour patch, changed every 72 hours",4 months,No,Strong support system,Unemployed,Graduate degree,Los Angeles,1
+67,Male,Asian,No,No,Yes,Yes,Oxycodone,"10mg, 3 times per day",2 months,No,Moderate support system,Retired,High school diploma,Miami,1
+87,Female,Asian,No,No,No,No,Fentanyl,"5mg, 2 times per day",2 years,Yes,Limited support system,Retired,Some college,Canada,4
+89,Male,Caucasian,No,No,No,Yes,Opana,"10mg, 3 times per day",1 year,No,Limited support system,Unemployed,High school diploma,Canada,3
+34,Female,White,Yes,No,No,No,Demerol ,"25mcg/hour patch, changed every 72 hours",1 year,Yes,Moderate support system,Unemployed,Some college,Boston,3
+24,Male,Caucasian,No,No,Yes,Yes,Codeine ,"25mcg/hour patch, changed every 72 hours",2 months,No,Strong support system,Unemployed,Graduate degree,Chicago,1
+27,Male,African American,No,No,No,No,Vicodin,"5mg, 2 times per day",3 months,No,Moderate support system,Employed,Graduate degree,St. Louis,0
+55,Female,African American,No,Yes,Yes,No,Tramadol,"10mg, 3 times per day",4 months,No,Limited support system,Unemployed,High school diploma,Kansas City,1
+35,Male,African American,No,Yes,Yes,No,Vicodin,"5mg, 3 times per day",2 years,Yes,Moderate support system,Employed,Some college,Dallas,4
+29,Male,White,Yes,No,No,No,Vicodin,"5mg, 2 times per day",3 years,Yes,Limited support system,Unemployed,High school diploma,San Francisco,4
+34,Male,Caucasian,No,Yes,Yes,Yes,Hydrocodone,"10mg, 3 times per day",1 year,No,Moderate support system,Unemployed,Some college,Dallas,2
+35,Female,U.S Nonresident,Yes,Yes,No,Yes,Oxycodone,"5mg, 3 times per day",4 months,No,Moderate support system,Employed,Graduate degree,Boston,1
+56,Female,U.S Nonresident,Yes,Yes,No,Yes,Methadone,"10mg, 3 times per day",2 months,No,Moderate support system,Employed,Some college,Miami,0
+45,Male,Hispanic,No,Yes,No,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",1 month,No,Moderate support system,Employed,Graduate degree,Jersey,0
+38,Male,Caucasian,No,No,Yes,Yes,Oxycodone,"10mg, 3 times per day",7 months,No,Limited support system,Employed,College degree,New York City,2
+29,Female,Hispanic,Yes,No,No,No,Hydrocodone,"5mg, 2 times per day",3 years,Yes,Strong support system,Unemployed,High school diploma,Los Angeles,4
+47,Female,Caucasian,No,No,No,No,Tramadol,"50mg, 4 times per day",2 months,No,Moderate support system,Employed,Some college,Chicago,1
+37,Male,Asian,Yes,Yes,Yes,Yes,Oxycodone,"10mg, 3 times per day",1 year,No,Strong support system,Employed,Graduate degree,San Francisco,3
+42,Female,African American,No,Yes,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",5 years,Yes,Limited support system,Unemployed,High school diploma,Los Angeles,4
+33,Male,Caucasian,Yes,No,Yes,Yes,Hydrocodone,"5mg, 2 times per day",9 months,Yes,Moderate support system,Employed,Some college,Miami,2
+48,Male,Hispanic,Yes,Yes,No,Yes,Kadian,"25mcg/hour patch, changed every 72 hours",3 years,Yes,Strong support system,Employed,Some college,Canada,3
+50,Female,Caucasian,No,No,Yes,Yes,Methadone,"10mg, 3 times per day",8 months,No,Strong support system,Unemployed,Graduate degree,Connecticut,4
+65,Female,African American,Yes,Yes,Yes,Yes,Oxycodone,"10mg, 3 times per day",2 years,No,Strong support system,Retired,Graduate degree,Boston,4
+38,Male,Asian,Yes,No,No,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",6 months,No,Moderate support system,Unemployed,College degree,New York City,1
+45,Female,Hispanic,Yes,Yes,Yes,Yes,Hydrocodone,"5mg, 2 times per day",1 month,No,Limited support system,Employed,High school diploma,Los Angeles,3
+31,Male,Caucasian,No,No,No,No,Tramadol,"50mg, 4 times per day",5 years,Yes,Strong support system,Employed,Graduate degree,San Francisco,2
+55,Female,African American,Yes,Yes,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",6 months,No,Strong support system,Retired,Some college,Chicago,4
+27,Male,Asian,No,No,Yes,Yes,Kadian,"25mcg/hour patch, changed every 72 hours",1 year,No,Limited support system,Unemployed,High school diploma,Miami,1
+41,Female,Caucasian,Yes,Yes,Yes,Yes,Methadone,"10mg, 3 times per day",2 months,Yes,Moderate support system,Employed,College degree,Canada,3
+39,Male,Caucasian,Yes,Yes,No,Yes,Oxycodone,"10mg, 3 times per day",1 month,Yes,Strong support system,Employed,Some college,Connecticut,2
+34,Male,Hispanic,No,No,No,Yes,Hydrocodone,"5mg, 2 times per day",8 months,No,Strong support system,Retired,High school diploma,Boston,1
+49,Female,African American,Yes,Yes,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",4 years,No,Moderate support system,Retired,Graduate degree,New York City,4
+36,Male,Caucasian,Yes,Yes,Yes,Yes,Kadian,"25mcg/hour patch, changed every 72 hours",2 years,Yes,Strong support system,Employed,College degree,Los Angeles,4
+50,Female,Hispanic,Yes,Yes,Yes,Yes,Methadone,"10mg, 3 times per day",3 months,No,Strong support system,Unemployed,Some college,San Francisco,2
+30,Female,Asian,Yes,Yes,Yes,Yes,Oxycodone,"10mg, 3 times per day",7 months,No,Moderate support system,Retired,Graduate degree,Miami,3
+44,Male,African American,No,No,No,Yes,Hydrocodone,"5mg, 2 times per day",1 year,No,Strong support system,Employed,High school diploma,Chicago,1
+37,Female,Caucasian,No,Yes,Yes,Yes,Tramadol,"50mg, 4 times per day",4 months,No,Limited support system,Employed,College degree,New York City,3
+43,Male,Hispanic,No,No,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",9 months,Yes,Strong support system,Unemployed,Some college,Los Angeles,2
+36,Female,Caucasian,No,No,Yes,Yes,Oxycodone,"10mg, 3 times per day",2 months,No,Strong support system,Employed,Some college,New York City,2
+47,Male,Hispanic,Yes,Yes,No,No,Tramadol,"50mg, 4 times per day",3 years,Yes,Moderate support system,Unemployed,High school diploma,Miami,3
+28,Female,African American,No,Yes,Yes,Yes,Methadone,"10mg, 3 times per day",8 months,Yes,Limited support system,Unemployed,Some college,Chicago,1
+50,Male,Caucasian,No,No,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",4 years,Yes,Limited support system,Employed,Graduate degree,Los Angeles,4
+41,Female,Hispanic,Yes,Yes,Yes,Yes,Hydrocodone,"5mg, 2 times per day",1 year,Yes,Strong support system,Employed,College degree,New York City,4
+30,Male,Asian,Yes,Yes,Yes,Yes,Kadian,"25mcg/hour patch, changed every 72 hours",3 months,No,Moderate support system,Retired,Graduate degree,San Francisco,2
+48,Female,Caucasian,No,No,Yes,Yes,Methadone,"10mg, 3 times per day",5 years,Yes,Strong support system,Unemployed,Some college,Chicago,3
+33,Female,Hispanic,Yes,Yes,Yes,Yes,Tramadol,"50mg, 4 times per day",6 months,Yes,Strong support system,Employed,High school diploma,Los Angeles,4
+55,Male,Hispanic,Yes,Yes,Yes,Yes,Hydrocodone,"5mg, 2 times per day",3 years,Yes,Moderate support system,Employed,Graduate degree,Chicago,4
+45,Female,Caucasian,No,Yes,Yes,Yes,Oxycodone,"10mg, 3 times per day",1 month,Yes,Moderate support system,Unemployed,College degree,Los Angeles,2
+60,Male,African American,Yes,Yes,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",2 months,Yes,Strong support system,Retired,Some college,Chicago,3
+29,Female,Asian,No,Yes,Yes,Yes,Methadone,"10mg, 3 times per day",7 months,Yes,Limited support system,Unemployed,High school diploma,Miami,2
+39,Male,Hispanic,Yes,Yes,Yes,Yes,Hydrocodone,"5mg, 2 times per day",3 years,Yes,Strong support system,Employed,Graduate degree,San Francisco,3
+47,Female,Caucasian,Yes,Yes,Yes,Yes,Oxycodone,"10mg, 3 times per day",9 months,Yes,Strong support system,Employed,Some college,New York City,4
+32,Male,African American,Yes,Yes,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",1 year,Yes,Strong support system,Unemployed,High school diploma,Chicago,4
+37,Female,Asian,No,Yes,Yes,Yes,Kadian,"25mcg/hour patch, changed every 72 hours",6 months,Yes,Moderate support system,Unemployed,College degree,New York City,3
+40,Male,Caucasian,No,No,Yes,Yes,Oxycodone,"10mg, 3 times per day",2 years,Yes,Limited support system,Employed,Graduate degree,Los Angeles,2
+28,Female,African American,No,Yes,Yes,Yes,Tramadol,"50mg, 4 times per day",1 month,Yes,Limited support system,Unemployed,High school diploma,Chicago,2
+65,Male,Hispanic,Yes,Yes,Yes,Yes,Methadone,"10mg, 3 times per day",4 years,Yes,Strong support system,Retired,Some college,New York City,4
+53,Female,Caucasian,No,No,Yes,Yes,Hydrocodone,"5mg, 2 times per day",1 year,No,Moderate support system,Unemployed,Graduate degree,Miami,3
+44,Male,Asian,Yes,Yes,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",7 months,Yes,Strong support system,Employed,High school diploma,Los Angeles,4
+38,Female,Hispanic,Yes,Yes,Yes,Yes,Oxycodone,"10mg, 3 times per day",2 years,Yes,Moderate support system,Employed,Some college,Chicago,4
+42,Male,African American,Yes,Yes,Yes,Yes,Tramadol,"50mg, 4 times per day",8 months,Yes,Strong support system,Unemployed,College degree,New York City,4
+29,Female,Caucasian,No,No,Yes,Yes,Methadone,"10mg, 3 times per day",3 years,Yes,Limited support system,Employed,Graduate degree,San Francisco,2
+31,Male,African American,Yes,Yes,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",5 years,Yes,Strong support system,Retired,Some college,Chicago,3
+37,Female,Asian,Yes,Yes,Yes,Yes,Kadian,"25mcg/hour patch, changed every 72 hours",9 months,No,Moderate support system,Employed,High school diploma,New York City,3
+43,Male,Hispanic,No,No,Yes,Yes,Oxycodone,"10mg, 3 times per day",6 months,No,Limited support system,Unemployed,College degree,Los Angeles,2
+46,Female,Caucasian,No,Yes,Yes,Yes,Hydrocodone,"5mg, 2 times per day",1 month,No,Limited support system,Employed,Some college,Chicago,2
+59,Male,Asian,Yes,Yes,Yes,Yes,Methadone,"10mg, 3 times per day",8 months,Yes,Strong support system,Retired,High school diploma,Miami,4
+34,Female,Caucasian,Yes,Yes,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",7 months,Yes,Strong support system,Retired,College degree,New York City,4
+45,Male,African American,Yes,Yes,Yes,Yes,Oxycodone,"10mg, 3 times per day",2 years,Yes,Strong support system,Employed,Graduate degree,Los Angeles,4
+51,Female,Hispanic,Yes,Yes,Yes,Yes,Tramadol,"50mg, 4 times per day",3 years,Yes,Strong support system,Unemployed,Some college,Miami,4
+39,Male,Caucasian,Yes,Yes,Yes,Yes,Hydrocodone,"5mg, 2 times per day",4 years,Yes,Moderate support system,Employed,College degree,Los Angeles,4
+44,Female,Asian,No,No,Yes,Yes,Oxycodone,"10mg, 3 times per day",5 years,Yes,Limited support system,Retired,Some college,New York City,3
+52,Male,Hispanic,Yes,Yes,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",6 years,Yes,Strong support system,Employed,High school diploma,Chicago,4
+29,Female,Hispanic,Yes,Yes,Yes,Yes,Methadone,"10mg, 3 times per day",3 months,Yes,Moderate support system,Unemployed,Some college,Miami,3
+38,Male,Asian,Yes,Yes,Yes,Yes,Tramadol,"50mg, 4 times per day",1 year,Yes,Strong support system,Employed,Graduate degree,San Francisco,4
+35,Female,Caucasian,No,Yes,Yes,Yes,Hydrocodone,"5mg, 2 times per day",7 months,No,Limited support system,Retired,College degree,Los Angeles,3
+57,Male,Hispanic,Yes,Yes,Yes,Yes,Oxycodone,"10mg, 3 times per day",5 years,Yes,Strong support system,Retired,Graduate degree,New York City,4
+41,Female,Hispanic,Yes,Yes,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",2 years,Yes,Strong support system,Employed,High school diploma,Miami,4
+53,Male,Asian,Yes,Yes,Yes,Yes,Methadone,"10mg, 3 times per day",6 months,Yes,Moderate support system,Unemployed,Some college,Chicago,4
+36,Female,Caucasian,No,Yes,Yes,Yes,Tramadol,"50mg, 4 times per day",4 years,Yes,Strong support system,Unemployed,College degree,New York City,3
+58,Male,Caucasian,Yes,Yes,Yes,Yes,Hydrocodone,"5mg, 2 times per day",8 years,Yes,Limited support system,Employed,Graduate degree,Los Angeles,4
+43,Female,Hispanic,Yes,Yes,Yes,Yes,Oxycodone,"10mg, 3 times per day",2 months,Yes,Strong support system,Retired,Some college,New York City,4
+55,Male,Caucasian,Yes,Yes,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",9 months,Yes,Strong support system,Employed,High school diploma,Chicago,4
+47,Female,Asian,Yes,Yes,Yes,Yes,Methadone,"10mg, 3 times per day",1 year,Yes,Limited support system,Unemployed,Some college,Los Angeles,4
+60,Male,Hispanic,Yes,Yes,Yes,Yes,Tramadol,"50mg, 4 times per day",3 years,Yes,Moderate support system,Retired,College degree,Miami,4
+41,Female,Caucasian,Yes,Yes,Yes,Yes,Hydrocodone,"5mg, 2 times per day",6 years,Yes,Strong support system,Employed,Some college,New York City,4
+34,Male,Hispanic,Yes,Yes,Yes,Yes,Oxycodone,"10mg, 3 times per day",2 years,Yes,Strong support system,Unemployed,Graduate degree,Chicago,4
+56,Female,Hispanic,Yes,Yes,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",5 years,Yes,Limited support system,Retired,High school diploma,Miami,4
+22,Male,African American,No,Yes,Yes,Yes,Oxycodone,"10mg, 3 times per day",6 months,Yes,Strong support system,Employed,Some college,New Orleans,1
+67,Female,Caucasian,Yes,Yes,No,No,Hydrocodone,"5mg, 2 times per day",4 years,Yes,Limited support system,Retired,High school diploma,Seattle,3
+48,Male,Hispanic,Yes,No,No,No,Fentanyl,"25mcg/hour patch, changed every 72 hours",2 months,No,Moderate support system,Unemployed,Some college,Miami,2
+33,Male,Asian,Yes,Yes,Yes,Yes,Tramadol,"50mg, 4 times per day",1 year,Yes,Strong support system,Employed,College degree,Los Angeles,4
+55,Female,Caucasian,Yes,No,No,Yes,Morphine,"10mg, 2 times per day",5 months,No,Moderate support system,Retired,High school diploma,Denver,3
+27,Male,Hispanic,No,No,No,Yes,Oxycodone,"10mg, 3 times per day",3 months,No,Limited support system,Unemployed,Some college,Phoenix,4
+40,Female,African American,Yes,Yes,Yes,Yes,Kadian,"25mcg/hour patch, changed every 72 hours",2 years,Yes,Strong support system,Employed,Graduate degree,Atlanta,2
+35,Male,Caucasian,Yes,Yes,Yes,Yes,Methadone,"10mg, 3 times per day",4 months,Yes,Moderate support system,Unemployed,High school diploma,New York City,3
+29,Male,Asian,Yes,No,Yes,Yes,Codeine,"25mg, 4 times per day",1 year,Yes,Limited support system,Employed,Some college,San Francisco,1
+46,Female,Hispanic,Yes,No,Yes,Yes,Opana,"20mg, 2 times per day",2 months,Yes,Strong support system,Employed,College degree,Los Angeles,4
+63,Male,White,Yes,Yes,Yes,Yes,Oxycodone,"15mg, 4 times per day",6 months,Yes,Strong support system,Retired,High school diploma,Chicago,4
+54,Female,Caucasian,Yes,Yes,Yes,Yes,Tramadol,"50mg, 4 times per day",5 years,Yes,Limited support system,Employed,Some college,Los Angeles,4
+31,Male,Asian,Yes,Yes,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",8 months,Yes,Strong support system,Unemployed,College degree,San Francisco,4
+50,Female,African American,Yes,Yes,Yes,Yes,Methadone,"10mg, 3 times per day",1 year,Yes,Limited support system,Retired,Graduate degree,Philadelphia,4
+59,Male,Caucasian,Yes,Yes,Yes,Yes,Hydrocodone,"5mg, 2 times per day",9 months,Yes,Strong support system,Employed,Some college,Los Angeles,4
+26,Female,Hispanic,Yes,Yes,Yes,Yes,Oxycodone,"10mg, 3 times per day",1 year,Yes,Moderate support system,Unemployed,High school diploma,Los Angeles,4
+43,Male,African American,Yes,Yes,Yes,Yes,Tramadol,"50mg, 4 times per day",6 months,Yes,Strong support system,Employed,College degree,Miami,4
+37,Female,Caucasian,Yes,Yes,Yes,Yes,Methadone,"10mg, 3 times per day",2 years,Yes,Moderate support system,Unemployed,Some college,Chicago,4
+32,Male,Asian,Yes,Yes,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",4 years,Yes,Strong support system,Employed,Graduate degree,New York City,4
+56,Female,Caucasian,Yes,Yes,Yes,Yes,Kadian,"30mg, 3 times per day",3 years,Yes,Limited support system,Retired,High school diploma,Los Angeles,4
+48,Male,African American,Yes,Yes,Yes,Yes,Opana,"20mg, 2 times per day",7 months,Yes,Strong support system,Employed,Some college,Phoenix,4
+29,Female,Hispanic,Yes,Yes,Yes,Yes,Oxycodone,"10mg, 3 times per day",5 years,Yes,Strong support system,Unemployed,College degree,San Francisco,4
+53,Male,Caucasian,Yes,Yes,Yes,Yes,Hydrocodone,"5mg, 2 times per day",2 years,Yes,Moderate support system,Retired,Graduate degree,Los Angeles,4
+41,Female,Asian,Yes,Yes,Yes,Yes,Methadone,"10mg, 3 times per day",8 months,Yes,Limited support system,Employed,Some college,Chicago,4
+35,Male,Caucasian,Yes,Yes,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",1 year,Yes,Moderate support system,Retired,High school diploma,New York City,4
+52,Female,African American,Yes,Yes,Yes,Yes,Tramadol,"50mg, 4 times per day",5 years,Yes,Limited support system,Employed,Graduate degree,Los Angeles,4
+45,Male,Hispanic,Yes,Yes,Yes,Yes,Methadone,"10mg, 3 times per day",4 years,Yes,Moderate support system,Unemployed,Some college,Miami,4
+37,Female,Caucasian,Yes,Yes,Yes,Yes,Oxycodone,"15mg, 4 times per day",3 years,Yes,Strong support system,Retired,High school diploma,Los Angeles,4
+59,Male,Asian,Yes,Yes,Yes,Yes,Kadian,"30mg, 3 times per day",2 years,Yes,Strong support system,Employed,Some college,Chicago,4
+47,Female,Hispanic,Yes,Yes,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",1 year,Yes,Strong support system,Unemployed,College degree,Phoenix,4
+43,Male,Caucasian,Yes,Yes,Yes,Yes,Oxycodone,"20mg, 2 times per day",6 months,Yes,Strong support system,Retired,Graduate degree,Los Angeles,4
+46,Female,Asian,Yes,Yes,Yes,Yes,Hydrocodone,"5mg, 2 times per day",7 months,Yes,Limited support system,Employed,Some college,San Francisco,4
+51,Male,Hispanic,Yes,Yes,Yes,Yes,Methadone,"10mg, 3 times per day",1 year,Yes,Limited support system,Unemployed,High school diploma,Phoenix,4
+49,Female,Caucasian,Yes,Yes,Yes,Yes,Opana,"20mg, 2 times per day",8 months,Yes,Strong support system,Employed,Some college,Los Angeles,4
+42,Male,African American,Yes,Yes,Yes,Yes,Oxycodone,"15mg, 4 times per day",4 years,Yes,Limited support system,Unemployed,Graduate degree,Chicago,4
+36,Female,Hispanic,Yes,Yes,Yes,Yes,Tramadol,"50mg, 4 times per day",6 months,Yes,Strong support system,Employed,College degree,New York City,4
+55,Male,Caucasian,Yes,Yes,Yes,Yes,Fentanyl,"25mcg, 2 times per day",2 years,Yes,Moderate support system,Unemployed,Some college,Los Angeles,4
+47,Female,African American,Yes,Yes,Yes,Yes,Kadian,"30mg, 3 times per day",3 years,Yes,Limited support system,Retired,High school diploma,Chicago,4
+31,Male,Asian,Yes,Yes,Yes,Yes,Methadone,"10mg, 3 times per day",1 year,Yes,Strong support system,Employed,Some college,Los Angeles,4
+36,Female,Hispanic,Yes,Yes,Yes,Yes,Oxycodone,"15mg, 4 times per day",9 months,Yes,Moderate support system,Retired,Graduate degree,New York City,4
+43,Male,Caucasian,Yes,Yes,Yes,Yes,Hydrocodone,"10mg, 3 times per day",5 years,Yes,Strong support system,Employed,High school diploma,Los Angeles,4
+45,Female,Asian,Yes,Yes,Yes,Yes,Methadone,"20mg, 2 times per day",1 year,Yes,Strong support system,Unemployed,College degree,Phoenix,4
+51,Male,Hispanic,Yes,Yes,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",4 years,Yes,Limited support system,Employed,Graduate degree,New York City,4
+44,Female,Caucasian,Yes,Yes,Yes,Yes,Opana,"30mg, 3 times per day",3 years,Yes,Strong support system,Retired,Some college,Chicago,4
+56,Male,Asian,Yes,Yes,Yes,Yes,Oxycodone,"15mg, 4 times per day",8 months,Yes,Limited support system,Unemployed,High school diploma,Los Angeles,4
+42,Female,Hispanic,Yes,Yes,Yes,Yes,Tramadol,"50mg, 4 times per day",6 months,Yes,Strong support system,Employed,Some college,New York City,4
+53,Male,Caucasian,Yes,Yes,Yes,Yes,Methadone,"10mg, 3 times per day",2 years,Yes,Limited support system,Retired,Graduate degree,Los Angeles,4
+41,Female,African American,Yes,Yes,Yes,Yes,Fentanyl,"25mcg/hour patch, changed every 72 hours",1 year,Yes,Moderate support system,Unemployed,College degree,Phoenix,4
+37,Male,Hispanic,Yes,Yes,Yes,Yes,Oxycodone,"15mg, 4 times per day",4 years,Yes,Strong support system,Employed,High school diploma,Los Angeles,4
+59,Female,Caucasian,Yes,Yes,Yes,Yes,Kadian,"30mg, 3 times per day",5 years,Yes,Strong support system,Retired,Some college,Chicago,4

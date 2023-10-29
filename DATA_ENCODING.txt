@@ -1,0 +1,86 @@
+AGE: number
+GENDER:
+	0->Female
+	1->Male
+RACE/EHNICITY:
+	0->Caucasian
+	1->African American
+	2->Asian
+	3->White
+	4->Hispanic
+	5->U.S Nonresident
+FAMILY HISTORY OF SUBSTANCE ABUSE:
+	0->No
+	1->Yes
+PERSONAL HISTORY OF SUBSTANCE ABUSE:
+	0->No
+	1->Yes
+HISTORY OF MENTAL HEALTH CONDITIONS:
+	0->No
+	1->Yes
+CHRONIC PAIN CONDITIONS:
+	0->No
+	1->Yes
+PRESCRIBED MEDICATIONS:
+	0->Oxycodone
+	1->Hydrocodone
+	2->Fentanyl
+	3->Tramadol
+	4->Morphine
+	5->Kadian
+	6->Methadone
+	7->Opana
+	8->Demerol
+	9->Codeine
+	10->Vicodin
+DOSAGE AND FREQUENCY OF OPIOID MEDICATION USE:
+	0->10mg, 3 times per day (30,000mcg)
+	1->5mg, 2 times per day (10,000mcg)
+	2->25mcg/hour patch, changed every 72 hours (600mcg)
+	3->50mg, 4 times per day (200,000mcg)
+	4->10mg, 2 times per day (20,000mcg)
+	5->5mg, 3 times per day (15,000mcg)
+	6->25mg, 4 times per day (100,000mcg)
+	7->20mg, 2 times per day (40,000mcg)
+	8->15mg, 4 times per day (60,000mcg)
+	9->30mg, 3 times per day (90,000mcg)
+	10->25mcg, 2 times per day (50mcg)
+DURATION OF OPIOID MEDICATION USE:
+	30->1 month
+	60->2 months
+	90->3 months
+	120->4 months
+	150->5 months
+	180->6 months
+	210->7 months
+	240->8 months
+	270->9 months
+	360->1 year
+	720->2 years
+	1080->3 years
+	1440->4 years
+	1800->5 years
+	2160->6 years
+	2880->8 years
+HISTORY OF OVERDOSE OR HOSPITALIZATION DUE TO OPIOID USE:
+	0->No
+	1->Yes
+SOCIAL SUPPORT NETWORK:
+	0->Limited support system
+	1->Moderate support system
+	2->Strong support system
+EMPLOYMENT STATUS:
+	0->Unemployed
+	1->Employed
+	2->Retired
+EDUCATION LEVEL:
+	0->High school diploma
+	1->Some college
+	2->College degree
+	3->Graduate degree
+OPIOID RISK LEVEL
+	0->No risk
+	1->Low risk
+	2->Moderate risk
+	3->High risk
+	4->Very high risk
